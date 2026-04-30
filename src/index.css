@@ -1,0 +1,4 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #0a0a0a; color: #f0ede6; }
+button { font-family: inherit; }
+select { font-family: inherit; background: #141414; color: #f0ede6; border: 0.5px solid rgba(240,237,230,0.2); padding: 6px 10px; border-radius: 8px; }
